@@ -1,5 +1,5 @@
 {
-  "Author": "𝐒𝐚𝐠𝐨𝐫 𝐂𝐡𝐨𝐰𝐝𝐡𝐮𝐫𝐲",
+  "Author": "Sagor chowdhury",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,12 +11,12 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐉𝐞𝐫𝐫𝐲 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌Jerry",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "61568607544765",
+    "61588114721510",
     "61568607544765",
     "61568607544765"
   ],

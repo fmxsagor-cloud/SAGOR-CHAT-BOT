@@ -1,6 +1,6 @@
 {
-  "Author": "Sagor Chowdhury",
-  "version": "2.0.0",
+  "Author": "Sagor",
+  "version": "3.0.0",
   "language": "en",
   "DeveloperMode": false,
   "autoCreateDB": true,
@@ -13,10 +13,10 @@
   "OTPKEY": "",
   "BOTNAME": "─꯭─⃝‌‌Jerry",
   "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "reactUnsend": ["💋", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "61588114721510",
+    "61568607544765",
     "61568607544765",
     "61568607544765"
   ],
@@ -30,8 +30,8 @@
     "sqlite": { "storage": "data.sqlite" }
   },
 
-  "commandDisabled": [],
-  "eventDisabled": [],
+  "commandDisabled": [/],
+  "eventDisabled": [.],
 
   "System": {
     "autoRestart": true,
